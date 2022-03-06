@@ -6,7 +6,7 @@ Para ello, sigo los pasos detallados en el archivo ClientesPotenciales.ipynb.
 
 Para realizar las pruebas, después de serializar el modelo, he creado dos archivos .py, la aplicación y el servicio. Ambos están en la carpeta modelo. Después de serializarlo se lee el modelo para poder activar la aplicación en una URL local.
 
-Ejecutael siguiente código para probar el modelo.
+Ejecuta el siguiente código para probar el modelo.
 
   $ python Converted_predict_app.py
 
