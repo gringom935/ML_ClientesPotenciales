@@ -10,6 +10,7 @@ Ejecutael siguiente código para probar el modelo.
 
   $ python Converted_predict_app.py
 
+
 Yo he adjuntado unas capturas de pruebas realizadas por mí en la carpeta Pruebas_POST por si te sirven de ayuda.
 
 El modelo lo he realizado con las siguientes librerías, lenguajes o aplicaciones:
